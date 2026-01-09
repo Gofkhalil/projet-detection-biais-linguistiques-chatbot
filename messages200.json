@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 2,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 3,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vérifiez ,contactez votre banque la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 4,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 5,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 6,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 7,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 8,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 9,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 10,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 11,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 12,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 13,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 14,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 15,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 16,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 17,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 18,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 19,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 20,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 21,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 22,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 23,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 24,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 25,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 26,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 27,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 28,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 29,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 30,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 31,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 32,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 33,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 34,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 35,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 36,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 37,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 38,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 39,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 40,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 41,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 42,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 43,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 44,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 45,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 46,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 47,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 48,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 49,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 50,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 51,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 52,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 53,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 54,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 55,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 56,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 57,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 58,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 59,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 60,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 61,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 62,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 63,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 64,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 65,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 66,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 67,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 68,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 69,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 70,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 71,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 72,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 73,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 74,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 75,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 76,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 77,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 78,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 79,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 80,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 81,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 82,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 83,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 84,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 85,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 86,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 87,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 88,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 89,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 90,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 91,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 92,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 93,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 94,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 95,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 96,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 97,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 98,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 99,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 100,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 101,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 102,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 103,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 104,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 105,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 106,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 107,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 108,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 109,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 110,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 111,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 112,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 113,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 114,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 115,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 116,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 117,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 118,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 119,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 120,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 121,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 122,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 123,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 124,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 125,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 126,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 127,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 128,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 129,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 130,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 131,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 132,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 133,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 134,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 135,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 136,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 137,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 138,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 139,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 140,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 141,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 142,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 143,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 144,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 145,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 146,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 147,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 148,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 149,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 150,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 151,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 152,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 153,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 154,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 155,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 156,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 157,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 158,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 159,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 160,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 161,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Essayez un autre moyen de paiement ou contactez votre banque."
+  },
+  {
+    "id": 162,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 163,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 164,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 165,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 166,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 167,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 168,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 169,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 170,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 171,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 172,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 173,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 174,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 175,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 176,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 177,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 178,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 179,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 180,
+    "client": "Je veux changer mon adresse de livraison.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 181,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Désolé pour cela, pouvez-vous envoyer une photo ?"
+  },
+  {
+    "id": 182,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 183,
+    "client": "Mon colis est en retard.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 184,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 185,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Vous pouvez annuler depuis votre espace client."
+  },
+  {
+    "id": 186,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 187,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 188,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 189,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 190,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Bien sûr, vous pouvez retourner l’article depuis votre compte."
+  },
+  {
+    "id": 191,
+    "client": "Bonjour, j’ai un problème avec ma commande.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 192,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 193,
+    "client": "Je veux annuler ma commande.",
+    "chatbot": "Vérifiez la validité du code ou sa date d’expiration."
+  },
+  {
+    "id": 194,
+    "client": "Est-ce que vous livrez dans mon pays ?",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 195,
+    "client": "Comment retourner un produit ?",
+    "chatbot": "Vérifiez vos spams, sinon envoyez-moi votre adresse email."
+  },
+  {
+    "id": 196,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Modifiez l’adresse depuis les paramètres de votre profil."
+  },
+  {
+    "id": 197,
+    "client": "Le code promo ne fonctionne pas.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  },
+  {
+    "id": 198,
+    "client": "Je n’arrive pas à payer sur votre site.",
+    "chatbot": "Je peux vous aider, quel est votre numéro de commande ?"
+  },
+  {
+    "id": 199,
+    "client": "J’ai reçu un article endommagé.",
+    "chatbot": "Je suis navré, je vérifie le statut immédiatement."
+  },
+  {
+    "id": 200,
+    "client": "Je n’ai pas reçu l’email de confirmation.",
+    "chatbot": "Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+  }
+]

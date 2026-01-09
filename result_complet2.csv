@@ -1,0 +1,201 @@
+﻿id,client,chatbot,biais_detecte,nb_biais,suggestion,chatbot_reforme
+1,Je veux annuler ma commande.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+2,Je n’ai pas reçu l’email de confirmation.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+3,"Bonjour, j’ai un problème avec ma commande.","Vérifiez ,contactez votre banque la validité du code ou sa date d’expiration.","{'manque_politesse': ['vérifiez', 'contactez votre banque']}",2,"[""'vérifiez' → 'pourriez-vous vérifier'"", ""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]","pourriez-vous vérifier ,nous vous suggérons de contacter votre banque la validité du code ou sa date d’expiration."
+4,Le code promo ne fonctionne pas.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+5,Est-ce que vous livrez dans mon pays ?,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+6,Comment retourner un produit ?,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+7,Je n’ai pas reçu l’email de confirmation.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+8,Je n’arrive pas à payer sur votre site.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+9,Est-ce que vous livrez dans mon pays ?,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+10,Je n’ai pas reçu l’email de confirmation.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+11,Le code promo ne fonctionne pas.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+12,J’ai reçu un article endommagé.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+13,Je n’ai pas reçu l’email de confirmation.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+14,Comment retourner un produit ?,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+15,Le code promo ne fonctionne pas.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+16,Est-ce que vous livrez dans mon pays ?,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+17,Mon colis est en retard.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+18,Le code promo ne fonctionne pas.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+19,Est-ce que vous livrez dans mon pays ?,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+20,Mon colis est en retard.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+21,Je n’ai pas reçu l’email de confirmation.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+22,Est-ce que vous livrez dans mon pays ?,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+23,Est-ce que vous livrez dans mon pays ?,"Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+24,Mon colis est en retard.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+25,Comment retourner un produit ?,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+26,"Bonjour, j’ai un problème avec ma commande.","Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+27,Je n’ai pas reçu l’email de confirmation.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+28,Est-ce que vous livrez dans mon pays ?,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+29,Je veux annuler ma commande.,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+30,"Bonjour, j’ai un problème avec ma commande.",Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+31,Je veux annuler ma commande.,"Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+32,Mon colis est en retard.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+33,Est-ce que vous livrez dans mon pays ?,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+34,Je n’ai pas reçu l’email de confirmation.,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+35,Je n’ai pas reçu l’email de confirmation.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+36,"Bonjour, j’ai un problème avec ma commande.","Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+37,Mon colis est en retard.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+38,Je n’ai pas reçu l’email de confirmation.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+39,Le code promo ne fonctionne pas.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+40,Comment retourner un produit ?,"Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+41,Le code promo ne fonctionne pas.,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+42,Je n’arrive pas à payer sur votre site.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+43,Je n’arrive pas à payer sur votre site.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+44,"Bonjour, j’ai un problème avec ma commande.","Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+45,Est-ce que vous livrez dans mon pays ?,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+46,Est-ce que vous livrez dans mon pays ?,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+47,Comment retourner un produit ?,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+48,Comment retourner un produit ?,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+49,"Bonjour, j’ai un problème avec ma commande.","Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+50,Le code promo ne fonctionne pas.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+51,Le code promo ne fonctionne pas.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+52,Je veux annuler ma commande.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+53,Le code promo ne fonctionne pas.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+54,"Bonjour, j’ai un problème avec ma commande.","Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+55,"Bonjour, j’ai un problème avec ma commande.",Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+56,Est-ce que vous livrez dans mon pays ?,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+57,Comment retourner un produit ?,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+58,Est-ce que vous livrez dans mon pays ?,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+59,Je n’arrive pas à payer sur votre site.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+60,Je veux changer mon adresse de livraison.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+61,Je n’ai pas reçu l’email de confirmation.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+62,Je n’arrive pas à payer sur votre site.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+63,Mon colis est en retard.,"Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+64,Je veux changer mon adresse de livraison.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+65,Je n’ai pas reçu l’email de confirmation.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+66,J’ai reçu un article endommagé.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+67,Comment retourner un produit ?,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+68,"Bonjour, j’ai un problème avec ma commande.","Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+69,"Bonjour, j’ai un problème avec ma commande.","Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+70,Je n’arrive pas à payer sur votre site.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+71,"Bonjour, j’ai un problème avec ma commande.","Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+72,Comment retourner un produit ?,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+73,"Bonjour, j’ai un problème avec ma commande.",Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+74,Est-ce que vous livrez dans mon pays ?,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+75,Mon colis est en retard.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+76,Je veux annuler ma commande.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+77,Je veux changer mon adresse de livraison.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+78,J’ai reçu un article endommagé.,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+79,Mon colis est en retard.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+80,Est-ce que vous livrez dans mon pays ?,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+81,"Bonjour, j’ai un problème avec ma commande.","Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+82,Je veux changer mon adresse de livraison.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+83,Mon colis est en retard.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+84,Comment retourner un produit ?,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+85,Je n’arrive pas à payer sur votre site.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+86,Comment retourner un produit ?,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+87,Le code promo ne fonctionne pas.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+88,Mon colis est en retard.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+89,Est-ce que vous livrez dans mon pays ?,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+90,Est-ce que vous livrez dans mon pays ?,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+91,Le code promo ne fonctionne pas.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+92,"Bonjour, j’ai un problème avec ma commande.","Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+93,Je n’arrive pas à payer sur votre site.,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+94,Je n’arrive pas à payer sur votre site.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+95,J’ai reçu un article endommagé.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+96,"Bonjour, j’ai un problème avec ma commande.","Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+97,Est-ce que vous livrez dans mon pays ?,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+98,J’ai reçu un article endommagé.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+99,"Bonjour, j’ai un problème avec ma commande.",Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+100,Mon colis est en retard.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+101,Je veux annuler ma commande.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+102,Je veux changer mon adresse de livraison.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+103,J’ai reçu un article endommagé.,"Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+104,Je veux changer mon adresse de livraison.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+105,Je n’ai pas reçu l’email de confirmation.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+106,Je veux changer mon adresse de livraison.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+107,Je veux changer mon adresse de livraison.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+108,Je veux changer mon adresse de livraison.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+109,Est-ce que vous livrez dans mon pays ?,"Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+110,"Bonjour, j’ai un problème avec ma commande.",Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+111,Je veux changer mon adresse de livraison.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+112,"Bonjour, j’ai un problème avec ma commande.","Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+113,Je veux annuler ma commande.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+114,Je veux annuler ma commande.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+115,Je n’arrive pas à payer sur votre site.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+116,Je n’arrive pas à payer sur votre site.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+117,J’ai reçu un article endommagé.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+118,Je veux annuler ma commande.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+119,"Bonjour, j’ai un problème avec ma commande.","Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+120,Le code promo ne fonctionne pas.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+121,Je n’arrive pas à payer sur votre site.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+122,Le code promo ne fonctionne pas.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+123,Je veux annuler ma commande.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+124,Est-ce que vous livrez dans mon pays ?,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+125,Est-ce que vous livrez dans mon pays ?,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+126,"Bonjour, j’ai un problème avec ma commande.","Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+127,Je veux annuler ma commande.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+128,Est-ce que vous livrez dans mon pays ?,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+129,Je veux changer mon adresse de livraison.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+130,"Bonjour, j’ai un problème avec ma commande.",Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+131,Est-ce que vous livrez dans mon pays ?,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+132,Je n’ai pas reçu l’email de confirmation.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+133,Comment retourner un produit ?,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+134,Est-ce que vous livrez dans mon pays ?,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+135,Je n’arrive pas à payer sur votre site.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+136,Je veux annuler ma commande.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+137,Je n’ai pas reçu l’email de confirmation.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+138,Je veux changer mon adresse de livraison.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+139,Le code promo ne fonctionne pas.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+140,Mon colis est en retard.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+141,Mon colis est en retard.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+142,"Bonjour, j’ai un problème avec ma commande.","Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+143,Est-ce que vous livrez dans mon pays ?,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+144,Comment retourner un produit ?,"Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+145,Le code promo ne fonctionne pas.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+146,Je veux changer mon adresse de livraison.,"Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+147,"Bonjour, j’ai un problème avec ma commande.","Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+148,"Bonjour, j’ai un problème avec ma commande.",Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+149,Je veux annuler ma commande.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+150,Je veux changer mon adresse de livraison.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+151,Je veux changer mon adresse de livraison.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+152,J’ai reçu un article endommagé.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+153,Comment retourner un produit ?,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+154,Je veux annuler ma commande.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+155,Je veux changer mon adresse de livraison.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+156,Mon colis est en retard.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+157,Le code promo ne fonctionne pas.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+158,Je n’ai pas reçu l’email de confirmation.,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+159,"Bonjour, j’ai un problème avec ma commande.",Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+160,Je veux annuler ma commande.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+161,Est-ce que vous livrez dans mon pays ?,Essayez un autre moyen de paiement ou contactez votre banque.,{'manque_politesse': ['contactez votre banque']},1,"[""'contactez votre banque' → 'nous vous suggérons de contacter votre banque'""]",Essayez un autre moyen de paiement ou nous vous suggérons de contacter votre banque.
+162,Je n’ai pas reçu l’email de confirmation.,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+163,J’ai reçu un article endommagé.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+164,Je n’arrive pas à payer sur votre site.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+165,"Bonjour, j’ai un problème avec ma commande.","Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+166,Mon colis est en retard.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+167,Le code promo ne fonctionne pas.,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+168,Je n’arrive pas à payer sur votre site.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+169,Le code promo ne fonctionne pas.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+170,Je veux annuler ma commande.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+171,Est-ce que vous livrez dans mon pays ?,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+172,Je n’ai pas reçu l’email de confirmation.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+173,Je n’arrive pas à payer sur votre site.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+174,Le code promo ne fonctionne pas.,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+175,J’ai reçu un article endommagé.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+176,Est-ce que vous livrez dans mon pays ?,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+177,Je n’arrive pas à payer sur votre site.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+178,Je veux annuler ma commande.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+179,J’ai reçu un article endommagé.,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+180,Je veux changer mon adresse de livraison.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+181,Je n’ai pas reçu l’email de confirmation.,"Désolé pour cela, pouvez-vous envoyer une photo ?",{},0,[],"Désolé pour cela, pouvez-vous envoyer une photo ?"
+182,"Bonjour, j’ai un problème avec ma commande.",Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+183,Mon colis est en retard.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+184,Je n’ai pas reçu l’email de confirmation.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+185,Est-ce que vous livrez dans mon pays ?,Vous pouvez annuler depuis votre espace client.,{},0,[],Vous pouvez annuler depuis votre espace client.
+186,Je n’arrive pas à payer sur votre site.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+187,"Bonjour, j’ai un problème avec ma commande.","Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+188,Je veux annuler ma commande.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+189,Je n’arrive pas à payer sur votre site.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+190,Est-ce que vous livrez dans mon pays ?,"Bien sûr, vous pouvez retourner l’article depuis votre compte.",{},0,[],"Bien sûr, vous pouvez retourner l’article depuis votre compte."
+191,"Bonjour, j’ai un problème avec ma commande.",Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+192,Je n’ai pas reçu l’email de confirmation.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+193,Je veux annuler ma commande.,Vérifiez la validité du code ou sa date d’expiration.,{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]",pourriez-vous vérifier la validité du code ou sa date d’expiration.
+194,Est-ce que vous livrez dans mon pays ?,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+195,Comment retourner un produit ?,"Vérifiez vos spams, sinon envoyez-moi votre adresse email.",{'manque_politesse': ['vérifiez']},1,"[""'vérifiez' → 'pourriez-vous vérifier'""]","pourriez-vous vérifier vos spams, sinon envoyez-moi votre adresse email."
+196,Je n’arrive pas à payer sur votre site.,Modifiez l’adresse depuis les paramètres de votre profil.,{},0,[],Modifiez l’adresse depuis les paramètres de votre profil.
+197,Le code promo ne fonctionne pas.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
+198,Je n’arrive pas à payer sur votre site.,"Je peux vous aider, quel est votre numéro de commande ?",{},0,[],"Je peux vous aider, quel est votre numéro de commande ?"
+199,J’ai reçu un article endommagé.,"Je suis navré, je vérifie le statut immédiatement.",{},0,[],"Je suis navré, je vérifie le statut immédiatement."
+200,Je n’ai pas reçu l’email de confirmation.,"Oui, nous livrons dans votre pays. Quel est votre code postal ?",{},0,[],"Oui, nous livrons dans votre pays. Quel est votre code postal ?"
